@@ -2,6 +2,9 @@
 
 Php class to provide a static methods to validate various information from national identity numbers.
 
+![Tests](https://github.com/tervis/validate-identity/workflows/Tests/badge.svg)
+
+
 ## Usage
 ```php
 use Tervis\Validate\Identity\ValidateIdentityFIN;
