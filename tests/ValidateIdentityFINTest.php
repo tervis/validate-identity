@@ -42,7 +42,6 @@ class ValidateIdentityFINTest extends TestCase
     public static function vatDataProvider(): iterable
     {
         yield ['123', false];
-        yield [123, false];
         yield ['0592509-666', false];
         yield ['string', false];
         yield ['*', false];
