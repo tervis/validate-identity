@@ -1,5 +1,7 @@
 composer.phar
 /vendor/
 
+.phpunit.result.cache
+
 .idea
 .notes
